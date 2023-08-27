@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinlinkk&show_icons=true&theme=tokyonight)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvinlinkk&repo=kelvinlinkk.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinlinkk&layout=donut)
 <!--
 **kelvinlinkk/kelvinlinkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![test](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinlinkk&show_icons=true&theme=radical))
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
